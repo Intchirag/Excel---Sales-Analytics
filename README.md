@@ -7,8 +7,11 @@ A comprehensive Sales & Financial Analytics solution built using Excel, Power Qu
 ## 🔹 Sales Report
 
 ### 🎯 Project Objectives
-1. Develop a comprehensive [Customer Performance Report](https://github.com/Intchirag/Excel---Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
-2. Perform an in-depth comparison between [Market Performance and Sales Targets]
+1. Developed a comprehensive [Customer Performance Report]
+
+![](IMG_4011.jpeg)
+
+3. Perform an in-depth comparison between [Market Performance and Sales Targets]
 
 ![](IMG_4012.jpeg)
 
@@ -33,11 +36,18 @@ Enable organizations to monitor, measure, and evaluate sales performance across 
 
 ### 🎯 Project Objectives
 1. Generate Profit & Loss (P&L) reports by:
-   - [Fiscal Year](https://github.com/Intchirag/Excel---Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
-   - [Months](https://github.com/Intchirag/Excel---Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
+   - [Fiscal Year]
 
-2. Create Profit & Loss (P&L) reports by:
-   - [Markets](https://github.com/Intchirag/Excel---Sales-Analytics/blob/main/P%26L%20Statement%20by%20Market.pdf)
+![](IMG_4008.jpeg)
+
+   - [Months]
+
+![](IMG_4010.jpeg)
+
+1. Create Profit & Loss (P&L) reports by:
+   - [Markets]
+
+![](IMG_4009.jpeg)
 
 ---
 
