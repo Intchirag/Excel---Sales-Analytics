@@ -10,7 +10,7 @@ A comprehensive Sales & Financial Analytics solution built using Excel, Power Qu
 1. Develop a comprehensive [Customer Performance Report](https://github.com/Intchirag/Excel---Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 2. Perform an in-depth comparison between [Market Performance and Sales Targets]
 
-![](IMG_4012)
+![](IMG_4012.jpeg)
 
 ---
 
